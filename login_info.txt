@@ -1,0 +1,10 @@
+1. Super Admin http://127.0.0.1:8000/pos-admin/
+	Username : admin
+	Password : admin123
+
+2. User Login
+	User Email : akkas@gmail.com
+	Password   : akkas123
+	
+	user Email : adam@gmail.com
+	Password   : adam123
